@@ -1,0 +1,1 @@
+cookie consent message and a cookie with an expiration date so the message does not show up every time the user visits the website. 
